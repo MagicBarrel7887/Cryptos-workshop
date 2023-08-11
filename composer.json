@@ -1,0 +1,21 @@
+{
+    "name": "nate/cryptos-workshop",
+    "description": "cryptos-workshop website",
+    "type": "project",
+    "require": {
+        "psr/clock": "^1.0",
+        "psr/log": "^3.0",
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nate\\CryptosWorkshop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MagicBarrel7887",
+            "email": "o8mfrk48k@mozmail.com"
+        }
+    ]
+}
