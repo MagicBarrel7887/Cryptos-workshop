@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Des on My New Hugo Site</title>
-    <link>http://example.org/de/</link>
+    <link>https://magicbarrel7887.github.io/Cryptos-workshop/de/</link>
     <description>Recent content in Des on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://magicbarrel7887.github.io/Cryptos-workshop/de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Über mich</title>
-      <link>http://example.org/de/page/about/</link>
+      <link>https://magicbarrel7887.github.io/Cryptos-workshop/de/page/about/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/de/page/about/</guid>
+      <guid>https://magicbarrel7887.github.io/Cryptos-workshop/de/page/about/</guid>
       <description>Hugo wurde in Go geschrieben und ist ein Open-Source-Generator für statische Sites, der unter der [Apache License 2.0.] (https://github.com/gohugoio/hugo/blob/master/LICENSE ) verfügbar ist. Hugo unterstützt TOML-, YAML- und JSON-Datendateitypen , Markdown- und HTML-Inhaltsdateien und verwendet Shortcodes, um Rich Content hinzuzufügen. Andere bemerkenswerte Funktionen sind Taxonomien, mehrsprachiger Modus, Bildverarbeitung, benutzerdefinierte Ausgabeformate, HTML/CSS/JS-Minifizierung und Unterstützung für Sass SCSS-Workflows.
 Hugo nutzt eine Vielzahl von Open-Source-Projekten, darunter:
  https://github.com/yuin/goldmark  https://github.com/alecthomas/chroma  https://github.com/muesli/smartcrop  https://github.com/spf13/cobra  https://github.</description>
